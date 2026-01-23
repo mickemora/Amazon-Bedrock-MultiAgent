@@ -1,4 +1,4 @@
-# Amazon-Bedrock-MultiAgent
+# Amazon Bedrock MultiAgent
 Amazon Bedrock multi-agent solution design
 
 
